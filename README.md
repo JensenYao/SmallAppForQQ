@@ -1,13 +1,3 @@
-# SmallAppForQQ
-
-   作者：Code4Android
-   
-   新浪微博：http://weibo.com/745687294
-   
-   CSDN  :    http://blog.csdn.net/xiehuimx?viewmode=contents
-   
-   简书   :   http://www.jianshu.com/users/d5b531888b2b/latest_articles
-
 
 ##再次提醒，直接装官方软件,链接在下面。有什么问题可在博客留言.或者微博私信
 ##音乐信息使用的第三方接口，由于是免费的，限制每秒请求2次，所以可能会出现音乐加载失败问题。
@@ -17,14 +7,6 @@
 实现微信小程序（微信应用号）QQ 
 
 进度更新：
-
-![](https://github.com/xiehui999/SmallAppForQQ/blob/master/images/demo/qq.png)
-
-![](https://github.com/xiehui999/SmallAppForQQ/blob/master/images/demo/contact.png)
-
-![](https://github.com/xiehui999/SmallAppForQQ/blob/master/images/demo/dynamic.png)
-
-![](https://github.com/xiehui999/SmallAppForQQ/blob/master/images/demo/music.png)
 
 2016/09/25 00:37  Add images,Realization funnction QQ tab.
 
